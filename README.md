@@ -1,6 +1,11 @@
 
 # Password Hashing and Cracking Scripts
 
+[![Build Status](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c7c_Build-Passing-brightgreen.svg)](https://github.com/Luffy0xCyber/Hashing-and-Cracking/actions)
+[![License](https://img.shields.io/badge/License-Unlicensed-blue.svg)](https://github.com/Luffy0xCyber/Hashing-and-Cracking/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Luffy0xCyber/Hashing-and-Cracking)]()
+
 This repository contains two Python scripts designed for password security and analysis:
 1. **`gen_login.py`**: A script for generating secure bcrypt-based hashed passwords.
 2. **`reverse_hash.py`**: A script for cracking hashed passwords using a dictionary-based approach.
