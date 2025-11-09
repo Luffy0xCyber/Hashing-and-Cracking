@@ -150,3 +150,10 @@ This repository is inspired by [Crackstation](https://crackstation.net/), a well
 This project is no licensed. You are free to use, modify, and distribute the code as needed.
 
 ---
+
+## Contact
+
+Feel free to reach out via :
+
+- Email: elfaijahanas@gmail.com 
+- LinkedIn : https://www.linkedin.com/in/anaselfaijah/
